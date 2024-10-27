@@ -10,7 +10,7 @@
 
 ### 2. The Balloon Adventure
 
-  My Unity team project made for a game contest in South Korea.  
+  My Unity team project submitted to a game contest in South Korea, where it won an award.  
   Link for the game in Unity Play: [Here](https://play.unity.com/en/games/cc2d1cc4-9465-4394-a688-09b61fd3e292/the-balloon-adventure)  
   Or download installer: [Here](https://drive.google.com/file/d/1tdM_ymQAdmOhiEkmhpUNAynKOcchCTZ4/view)  
 
