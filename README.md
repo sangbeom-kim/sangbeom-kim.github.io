@@ -4,7 +4,7 @@
 
   My graphics project with meshes, curves, noises, shadows made when learning OpenGL.  
   The final scene displays a rollercoaster on simple landscape.  
-  https://github.com/user-attachments/assets/f45702e5-2239-40ee-9a5d-c9bc56c35d9e
+  ![Graphics Project](https://github.com/user-attachments/assets/44570f26-c8b1-44cd-a482-4791f6b016ee)
 
 2. The Balloon Adventure
 
