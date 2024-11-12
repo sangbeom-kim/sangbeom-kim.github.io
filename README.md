@@ -25,7 +25,7 @@
   My first team game project, where I developed the entire graphics and image engine.  
   Download Game: [Here](https://drive.google.com/file/d/1yDto32kzQQQo9K17GpQcsu9kpPT2lDM4/view?usp=sharing)  
 
-  <video controls>
+  <video style="width:100%; max-width:640px;" controls>
   <source src="https://sangbeom-kim.github.io/Spy%20the%20Man%20Trailer.mp4">
   Your browser does not support the video tag.
   </video>
