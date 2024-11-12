@@ -17,3 +17,12 @@
   Or download installer: [Here](https://drive.google.com/file/d/1tdM_ymQAdmOhiEkmhpUNAynKOcchCTZ4/view)  
 
   ![Balloon Project](https://github.com/user-attachments/assets/05666fe6-3b80-4411-b5e3-cc63e0981c53)
+
+---
+
+### 3. Spy the Man
+
+  My first team game project, where I developed the entire graphics and image engine.
+  Download Game: [Here](https://drive.google.com/file/d/1yDto32kzQQQo9K17GpQcsu9kpPT2lDM4/view?usp=sharing)  
+
+  ![Balloon Project](https://github.com/user-attachments/assets/05666fe6-3b80-4411-b5e3-cc63e0981c53)
