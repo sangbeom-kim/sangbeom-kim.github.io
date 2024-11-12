@@ -1,4 +1,4 @@
-# Sample Projects
+# Projects Portfolio
 
 ### 1. OpenGL Graphics Project
 
