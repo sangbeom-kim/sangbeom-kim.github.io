@@ -16,7 +16,7 @@
   Link for the game in Unity Play: [Here](https://play.unity.com/en/games/cc2d1cc4-9465-4394-a688-09b61fd3e292/the-balloon-adventure)  
   Or download installer: [Here](https://drive.google.com/file/d/1tdM_ymQAdmOhiEkmhpUNAynKOcchCTZ4/view)  
 
-  <img src="https://sangbeom-kim.github.io/Balloon Project.jpng" style="width:100%; max-width:1000px;" alt="Project Screenshot">
+  <img src="https://sangbeom-kim.github.io/Balloon Project.png" style="width:100%; max-width:1000px;" alt="Project Screenshot">
 
 ---
 
