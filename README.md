@@ -27,6 +27,6 @@
 
   https://github.com/user-attachments/assets/0c241f07-76ea-4a06-a7ac-a86aff6c9c93
   <video controls>
-  <source src="https://user-images.githubusercontent.com/0c241f07-76ea-4a06-a7ac-a86aff6c9c93" type="video/mp4">
+  <source src="https://sangbeom-kim.github.io/Spy%20the%20Man%20Trailer.mp4">
   Your browser does not support the video tag.
   </video>
