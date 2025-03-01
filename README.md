@@ -1,3 +1,7 @@
+# Sangbeom Kim
+
+Graphics and gameplay programmer with over 3 years of experience specializing in  game development, shader implementation, and real-time rendering, with proficiency in C#, C++, Unity, and Unreal Engine. Proven skills in collaborative game projects with a strong focus on enhancing visual fidelity and optimizing game performance.
+
 # Projects Portfolio
 
 ### 1. OpenGL Graphics Project
