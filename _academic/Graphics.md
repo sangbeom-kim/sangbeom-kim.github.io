@@ -1,12 +1,12 @@
 ---
 caption: #what displays in the portfolio grid:
-  title: OpenGL Graphics Project
+  title: Graphics Project
   subtitle: click image for more
   content: OpenGL showcase of meshes, curves, and shadows.
   thumbnail: assets/img/Graphics.png
   
 #what displays when the item is clicked:
-title: OpenGL Graphics Project
+title: Graphics Project
 subtitle: C++
 image: assets/img/Graphics.png #main image, can be a link or a file in assets/img/portfolio
 alt: GraphicsProject
@@ -17,7 +17,7 @@ alt: GraphicsProject
   - Team: 2 Programmers
   - Role: Graphics Programmer
 
-  Download the project [here](https://globalgamejam.org/games/2025/surface-tension-7).  
+  Download the project [here](/assets/file/GraphicsProject.zip).  
 
   {:.title}
   Description  

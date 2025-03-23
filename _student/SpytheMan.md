@@ -17,7 +17,7 @@ alt: SpytheMan
   - Team: 4 Programmers
   - Role: Gameplay Programmer, Tech Lead
 
-  Download the game [here](/assets/file/Spy the Man.zip).
+  Download the game [here](/assets/file/SpytheMan.zip).
 
   {:.title}
   Description  
