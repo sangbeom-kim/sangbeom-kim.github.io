@@ -1,0 +1,31 @@
+#
+# Work based on https://github.com/mmistakes/minimal-mistakes/blob/master/_data/ui-text.yml
+#
+# Configuration: Add to _config.yml
+# locale: "en-US"  [YOUR PREFERRED LOCALE]
+#
+# How to use:
+# {{ site.data.navigation[site.locale].nav.<var_name> | default: 'text' }}
+
+# English (default)
+# -----------------
+en: &DEFAULT_EN
+  nav:
+    - title: "About"
+      section: about
+    - title: "Student Projects"
+      section: studentprojects
+    - title: "Personal Projects"
+      section: personalprojects
+    - title: "Academic Projects"
+      section: academicprojects
+    - title: "Resume"
+      url: /assets/pdf/Resume.pdf
+en-US:
+  <<: *DEFAULT_EN
+en-CA:
+  <<: *DEFAULT_EN
+en-GB:
+  <<: *DEFAULT_EN
+en-AU:
+  <<: *DEFAULT_EN

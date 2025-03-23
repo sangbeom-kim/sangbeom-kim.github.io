@@ -1,0 +1,55 @@
+#
+# Work based on https://github.com/mmistakes/minimal-mistakes/blob/master/_data/ui-text.yml
+#
+# Configuration: Add to _config.yml
+# locale: "en-US"  [YOUR PREFERRED LOCALE]
+#
+# How to use:
+# {{ site.data.ui-text[site.locale].<var_name> | default: 'text' }}
+
+# English (default)
+# -----------------
+en: &DEFAULT_EN
+  header:
+    title: Sangbeom Kim
+    text: Graphics / Gameplay Programmer
+
+  about:
+    title: "About Me"
+    text: Graphics and gameplay programmer with experience of shader implementation, real-time rendering, and game development. <br> <br> Worked on collaborative game projects with a strong focus on implementing core gameplay system as well as visual presentation aspects.
+    section: about
+
+  studentprojects:
+    title: "Student Projects"
+    text: ""
+    section: studentprojects
+    closebutton: "Close Project"
+
+  personalprojects:
+    title: "Personal Projects"
+    text: ""
+    section: personalprojects
+    closebutton: "Close Project"
+
+  academicprojects:
+    title: "Academic Projects"
+    text: ""
+    section: academicprojects
+    closebutton: "Close Project"
+
+  footer:
+    social:
+      - url: https://www.linkedin.com/in/sangbeom-kim/
+        icon: "fab fa-linkedin-in"
+      - url: https://github.com/sangbeom-kim
+        icon: "fab fa-github"
+      - url: "mailto:neoeric0519@gmail.com"
+        icon: "fas fa-envelope"
+en-US:
+  <<: *DEFAULT_EN
+en-CA:
+  <<: *DEFAULT_EN
+en-GB:
+  <<: *DEFAULT_EN
+en-AU:
+  <<: *DEFAULT_EN
