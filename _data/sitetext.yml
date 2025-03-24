@@ -21,7 +21,7 @@ en: &DEFAULT_EN
 
   skills:
     title: "Skills"
-    text: Languages: C/C++, C# <br> Engines: Unreal Engine 5, Unity, OpenGL <br> Tools: GLSL, JSON, Perforce, GitHub <br> Expertise: Gameplay Programming, UI/UX Programming, Shader Programming, Debugging
+    text: "Languages: C/C++, C# <br> Engines: Unreal Engine 5, Unity, OpenGL <br> Tools: GLSL, JSON, Perforce, GitHub <br> Expertise: Gameplay Programming, UI/UX Programming, Shader Programming, Debugging"
     section: skills
 
   studentprojects:
