@@ -49,12 +49,15 @@ h6 {
   }
   @media (max-width: 768px) {
     h2.section-heading {
-      font-size: 3vw;
+      font-size: 6vw;
+      margin: 0;
     }
     h3.section-subheading {
       font-size: 4vw;
+      margin-top: 20px;
+      margin-bottom: 0px;
     }
-    padding: 30px;
+    padding: 20px;
   }
 }
 

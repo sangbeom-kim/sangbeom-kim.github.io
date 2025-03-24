@@ -27,4 +27,21 @@ header.masthead {
       @include heading-font;
     }
   }
+
+  @media (max-width: 768px) {
+    .intro-text {
+      padding-top: 30px;
+      padding-bottom: 20px;
+
+      .intro-lead-in {
+        font-size: 10vw;
+        line-height: 10vw;
+      }
+
+      .intro-heading {
+        font-size: 7vw;
+        line-height: 7vw;
+      }
+    }
+  }
 }
