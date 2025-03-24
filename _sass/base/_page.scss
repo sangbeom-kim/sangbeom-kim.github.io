@@ -32,7 +32,8 @@ h6 {
 .page-section {
   color: white;
   background-color: #121212;
-  padding: 100px;
+  padding-top: 100px;
+  padding-bottom: 80px;
   h2.section-heading {
     font-size: 5ch;
     margin-top: 0px;
@@ -42,7 +43,7 @@ h6 {
     color: #cccccc !important;
     font-size: 25px;
     font-weight: 400;
-    margin-top: 100px;
+    margin-top: 80px;
     margin-bottom: 0px;
     text-transform: none;
     @include serif-font;
