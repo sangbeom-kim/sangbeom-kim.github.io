@@ -80,6 +80,7 @@
 @media (max-width: 768px) {
   #portfolio, #studentprojects, #personalprojects, #academicprojects {
     .portfolio-item {
+      margin-bottom: 20px;
       .portfolio-link {
         max-width: 90%;
 
@@ -203,8 +204,6 @@
   @media (max-width: 768px) {
     .modal-dialog {
       max-width: 100%;
-      margin: 10px auto;
-      margin-bottom: 20px;
     }
 
     .modal-content {
