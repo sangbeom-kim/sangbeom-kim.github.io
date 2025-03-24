@@ -45,6 +45,8 @@ en: &DEFAULT_EN
         icon: "fab fa-github"
       - url: "mailto:neoeric0519@gmail.com"
         icon: "fas fa-envelope"
+      - url: /assets/pdf/Resume.pdf
+        icon: "fas fa-user-tie"
 en-US:
   <<: *DEFAULT_EN
 en-CA:
