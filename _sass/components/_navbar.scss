@@ -65,3 +65,38 @@
     }
   }
 }
+
+@media (max-width: 768px) {
+  #mainNav {
+    padding-top: 15px;
+    padding-bottom: 15px;
+  
+    .navbar-toggler {
+      font-size: 3vw;
+      padding: 8px;
+    }
+  
+    .navbar-brand {
+      font-size: 1.25em;
+    }
+  
+    .navbar-nav {
+      .nav-item {
+        .nav-link {
+          font-size: 80%;
+          padding: 0.8em 0.8em !important;
+        }
+      }
+    }
+  
+    &.navbar-shrink {
+      padding-top: 5px;
+      padding-bottom: 5px;
+  
+      .navbar-brand {
+        font-size: 1em;
+        padding: 8px 0;
+      }
+    }
+  }
+}
