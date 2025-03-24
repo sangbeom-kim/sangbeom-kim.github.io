@@ -65,3 +65,14 @@
     }
   }
 }
+
+.navbar-collapse {
+    position: absolute;
+    top: 100%;
+    right: 0;
+    width: auto;
+}
+
+.navbar-collapse.show {
+    display: block;
+}
