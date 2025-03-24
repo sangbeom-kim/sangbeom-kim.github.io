@@ -8,7 +8,7 @@ caption: #what displays in the portfolio grid:
 #what displays when the item is clicked:
 title: Surface Tension
 subtitle: Godot Engine
-image: assets/img/Bubblefall.png #main image, can be a link or a file in assets/img/portfolio
+video: assets/video/Bubblefall.mp4 #main image, can be a link or a file in assets/img/portfolio
 alt: SurfaceTension
 
 ---

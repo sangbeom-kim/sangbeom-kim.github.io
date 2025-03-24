@@ -8,7 +8,7 @@ caption: #what displays in the portfolio grid:
 #what displays when the item is clicked:
 title: The Balloon Adventure
 subtitle: Unity
-image: assets/img/Balloon.png #main image, can be a link or a file in assets/img/portfolio
+video: assets/video/Balloon.mp4 #main image, can be a link or a file in assets/img/portfolio
 alt: TheBalloonAdventure
 
 ---

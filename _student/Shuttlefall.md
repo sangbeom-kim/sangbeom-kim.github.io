@@ -8,7 +8,7 @@ caption: #what displays in the portfolio grid:
 #what displays when the item is clicked:
 title: Shuttlefall
 subtitle: Unreal Engine 5
-image: assets/img/Shuttlefall.png #main image, can be a link or a file in assets/img/portfolio
+video: assets/vid/Shuttlefall.mp4 #main image, can be a link or a file in assets/img/portfolio
 alt: Shuttlefall
 
 ---
