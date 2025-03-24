@@ -17,7 +17,7 @@ alt: SurfaceTension
   - Team: 4 Programmers
   - Role: Gameplay Programmer
 
-  Link to GGJ 2025 submission [here](https://globalgamejam.org/games/2025/surface-tension-7).  
+  Link to GGJ 2025 submission [here](https://globalgamejam.org/games/2025/surface-tension-7){:target="_blank" rel="noopener noreferrer"}.  
 
   {:.title}
   Description  

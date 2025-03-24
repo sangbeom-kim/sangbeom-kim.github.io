@@ -17,7 +17,7 @@ alt: TheBalloonAdventure
   - Team: 3 Programmers
   - Role: Gameplay Programmer
 
-  WebGL version of the game [here](https://play.unity.com/en/games/cc2d1cc4-9465-4394-a688-09b61fd3e292/the-balloon-adventure).  
+  WebGL version of the game [here](https://play.unity.com/en/games/cc2d1cc4-9465-4394-a688-09b61fd3e292/the-balloon-adventure){:target="_blank" rel="noopener noreferrer"}.  
   Download the game [here](/assets/file/BalloonInstaller.zip).
 
   {:.title}
