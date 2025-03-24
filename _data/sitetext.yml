@@ -18,12 +18,7 @@ en: &DEFAULT_EN
     title: "About Me"
     text: Graphics and gameplay programmer with experience of shader implementation, real-time rendering, and game development. <br> <br> Worked on collaborative game projects with a strong focus on implementing core gameplay system as well as visual presentation aspects.
     section: about
-
-  skills:
-    title: "Skills"
-    text: "Languages: C/C++, C# <br> Engines: Unreal Engine 5, Unity, OpenGL <br> Tools: GLSL, JSON, Perforce, GitHub <br> Expertise: Gameplay Programming, UI/UX Programming, Shader Programming, Debugging"
-    section: skills
-
+    
   studentprojects:
     title: "Student Projects"
     text: ""
