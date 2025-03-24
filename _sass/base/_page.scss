@@ -47,6 +47,15 @@ h6 {
     text-transform: none;
     @include serif-font;
   }
+  @media (max-width: 768px) {
+    h2.section-heading {
+      font-size: 3vw;
+    }
+    h3.section-subheading {
+      font-size: 4vw;
+    }
+    padding: 30px;
+  }
 }
 
 // Highlight color customization
