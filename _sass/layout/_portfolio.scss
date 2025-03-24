@@ -81,20 +81,20 @@
   #portfolio, #studentprojects, #personalprojects, #academicprojects {
     .portfolio-item {
       .portfolio-link {
-      img{
-        height: 200px;
+        img{
+          height: 3;
+        }
       }
     }
-  }
   }
 }
 
 @media (max-width: 900px) {
   #portfolio, #studentprojects, #personalprojects, #academicprojects {
     .portfolio-item {
-        .portfolio-link {
+      .portfolio-link {
         img{
-          height: 100px;
+          height: 200px;
         }
       }
     }
