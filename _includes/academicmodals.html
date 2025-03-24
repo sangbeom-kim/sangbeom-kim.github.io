@@ -21,10 +21,13 @@
               <!-- Project Details Go Here -->
               <h2 class="text-uppercase">{{ project.title }}</h2>
               <p class="item-intro text-muted">{{ project.subtitle }}</p>
-              <video class="img-fluid d-block mx-auto" controls>
-                <source src="{{ project.video }}" type="video/mp4">
-                Your browser does not support the video tag.
-              </video>
+              <div class="embed-responsive embed-responsive-16by9">
+                <iframe class="embed-responsive-item"
+                  src="{{ project.video }}"
+                  allow="autoplay"
+                  allowfullscreen>
+                </iframe>
+              </div>
               <p>{{ project.content }}</p>
               <button
                 class="btn btn-primary"
