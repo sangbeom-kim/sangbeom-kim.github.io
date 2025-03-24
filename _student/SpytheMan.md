@@ -8,7 +8,7 @@ caption: #what displays in the portfolio grid:
 #what displays when the item is clicked:
 title: Spy the Man
 subtitle: C++
-video: https://drive.google.com/uc?export=download&id=1jhLd5pU2plYChlyBPGq9bcPX1PO1pvuv
+video: https://drive.google.com/file/d/1jhLd5pU2plYChlyBPGq9bcPX1PO1pvuv/preview
 alt: SpytheMan
 
 ---

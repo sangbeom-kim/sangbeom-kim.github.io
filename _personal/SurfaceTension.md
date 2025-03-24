@@ -8,7 +8,7 @@ caption: #what displays in the portfolio grid:
 #what displays when the item is clicked:
 title: Surface Tension
 subtitle: Godot Engine
-video: https://drive.google.com/uc?export=download&id=1Wi1buCUBErtiA1_-fZam2p2SPFSvYHoz
+video: https://drive.google.com/file/d/1Wi1buCUBErtiA1_-fZam2p2SPFSvYHoz/preview
 alt: SurfaceTension
 
 ---
