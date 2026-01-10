@@ -2,7 +2,7 @@
 caption: #what displays in the portfolio grid:
   title: Motion Dynamics Project
   subtitle: click image for more
-  content: C++/OpenGL demo combining animation, path motion, IK, and physics simulation.
+  content: C++/OpenGL demo of graphic simulations.
   thumbnail: assets/img/MotionDynamics.png
   
 #what displays when the item is clicked:
@@ -13,7 +13,7 @@ alt: MotionDynamicsProject
 
 ---
 {:.list-inline} 
-  - Date: March 2022 ~ June 2022
+  - Date: September 2025 ~ December 2025
   - Team: Solo
   - Role: Engine / Graphics Programmer
 
