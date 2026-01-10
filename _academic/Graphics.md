@@ -2,12 +2,12 @@
 caption: #what displays in the portfolio grid:
   title: Graphics Project
   subtitle: click image for more
-  content: OpenGL showcase of meshes, curves, and shadows.
+  content: C++/OpenGL showcase of meshes, curves, and shadows.
   thumbnail: assets/img/Graphics.png
   
 #what displays when the item is clicked:
 title: Graphics Project
-subtitle: C++
+subtitle: C++/OpenGL
 video: https://drive.google.com/file/d/1BAlpoJQNeDkVbM3jk9n5lPZ41jVsJy6O/preview
 alt: GraphicsProject
 
@@ -23,14 +23,24 @@ alt: GraphicsProject
   Description  
 
   {:.content}
-  My graphics project with meshes, curves, noises, and shadows made when learning OpenGL. Developed a final sample scene featuring a roller coaster in a grass field, incorporating all learned techniques as a final output.  
+  A C++/OpenGL sandbox showcasing core graphics features through five scenes: Mesh, Noise, Curve, Shadow, and Final. Each scene is interactive with ImGui controls for live tweaking and debugging, ending with a combined roller-coaster demo.  
     
   {:.title}
   Contribution  
 
   {:.content}    
- Implemented 3D meshes with vertex, tessellation, geometry, and fragment shaders, applied mapping to mesh surfaces, created 3D spline curves, and used Z-buffering for shadow projection.  
+ Mesh Scene: Implemented procedural 3D primitives and the mesh buffering pipeline (VAO VBO IBO).
+Added shader-based rendering options and live toggles for common render states and visual styles.  
   
-   {:.content}    
-  Contributed to 3D mesh buffering, shader programming, and various OpenGL implementations.
+  {:.content}    
+  Noise Scene: Implemented 2D noise generation and variations, with controls for frequency, octaves, and animation offsets. Rendered the generated noise as a texture mapped onto geometry for real-time preview.  
 
+  {:.content}   
+Curve Scene: Built an interactive spline curve editor with draggable control points and adjustable sampling.
+Visualized curves and controls with lightweight debug drawing for clear iteration.  
+
+  {:.content}   
+  Shadow Scene: Implemented shadow mapping with a depth pass from a light camera and a main shading pass using the depth map. Added UI controls and debug views to tune bias and inspect shadow results.  
+
+  {:.content}   
+Final Scene: Combined terrain generation, spline-based track motion, and shadows into a single showcase scene. Implemented a roller-coaster style demo with editable track parameters and a follow camera for presentation.
