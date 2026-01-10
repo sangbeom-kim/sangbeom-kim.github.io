@@ -8,7 +8,7 @@ caption: #what displays in the portfolio grid:
 #what displays when the item is clicked:
 title: Motion Dynamics Project
 subtitle: C++/OpenGL
-video: https://drive.google.com/file/d/1BAlpoJQNeDkVbM3jk9n5lPZ41jVsJy6O/preview
+video: https://drive.google.com/file/d/1M3nkG27HQ8P3KAWsb5r0eKA0IFB6AMgG/preview
 alt: MotionDynamicsProject
 
 ---
