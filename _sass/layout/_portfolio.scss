@@ -2,6 +2,7 @@
 #portfolio, #studentprojects, #personalprojects, #academicprojects {
   background-color: #121212;
   .portfolio-item {
+    margin-bottom: 20px;
     background-color: #121212;
     right: 0;
     .portfolio-link {
@@ -116,7 +117,6 @@
 @media (max-width: 768px) {
   #portfolio, #studentprojects, #personalprojects, #academicprojects {
     .portfolio-item {
-      margin-bottom: 20px;
       .portfolio-link {
         img {
           height: auto;
