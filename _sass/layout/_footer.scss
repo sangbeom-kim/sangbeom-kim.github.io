@@ -2,13 +2,15 @@
 .footer {
   padding: 15px 0;
   text-align: center;
+
   span.copyright {
-    color:white;
+    color: white;
     font-size: 90%;
     line-height: 40px;
     text-transform: none;
     @include heading-font;
   }
+
   ul.quicklinks {
     font-size: 90%;
     line-height: 40px;
@@ -20,6 +22,7 @@
 
 ul.social-buttons {
   margin-bottom: 0;
+
   li {
     a {
       font-size: 20px;
@@ -34,16 +37,14 @@ ul.social-buttons {
       border-radius: 100%;
       outline: none;
       background-color: $gray-900;
-      &:focus,
-      &:hover {
-        background-color: $primary;
+
+      a:focus:not(:focus-visible) {
+        background-color: $gray-900;
       }
 
-       &:focus-visible {
+      a:hover,
+      a:focus-visible {
         background-color: $primary;
-      }
-      &:focus:not(:focus-visible):not(:hover):not(:active) {
-        background-color: $gray-900;
       }
     }
   }
