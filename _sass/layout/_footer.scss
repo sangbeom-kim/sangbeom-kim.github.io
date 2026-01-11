@@ -38,12 +38,21 @@ ul.social-buttons {
       outline: none;
       background-color: $gray-900;
 
-      a:focus:not(:focus-visible) {
+      &:hover,
+      &:active {
+        background-color: $primary;
+      }
+
+      &:focus-visible {
+        background-color: $primary;
+      }
+
+      &:focus {
         background-color: $gray-900;
       }
 
-      a:hover,
-      a:focus-visible {
+      &:focus:hover,
+      &:focus:active {
         background-color: $primary;
       }
     }
