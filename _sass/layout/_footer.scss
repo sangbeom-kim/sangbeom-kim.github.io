@@ -42,3 +42,10 @@ ul.social-buttons {
     }
   }
 }
+
+body.tab-switch-reset ul.social-buttons a,
+body.tab-switch-reset ul.social-buttons a:hover,
+body.tab-switch-reset ul.social-buttons a:active,
+body.tab-switch-reset ul.social-buttons a:focus {
+  background-color: $gray-900 !important;
+}

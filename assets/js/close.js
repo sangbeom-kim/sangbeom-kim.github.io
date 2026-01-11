@@ -8,13 +8,20 @@ $(document).ready(function() {
     }
   });
 
-  $('.social-buttons a').on('mousedown click', function () {
-    var el = this;
-    setTimeout(function () { el.blur(); }, 0);
+  function resetSocialStates() {
+    $('.social-buttons a').blur();
+
+    document.body.classList.add('tab-switch-reset');
+
+    requestAnimationFrame(function() {
+      document.body.classList.remove('tab-switch-reset');
+    });
+  }
+
+  document.addEventListener('visibilitychange', function () {
+    resetSocialStates();
   });
 
-  $(window).on('focus', function () {
-    var el = document.activeElement;
-    if (el && el.matches && el.matches('.social-buttons a')) el.blur();
-  });
+  window.addEventListener('focus', resetSocialStates);
+  window.addEventListener('blur', resetSocialStates);
 });
