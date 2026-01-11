@@ -8,7 +8,7 @@ caption: #what displays in the portfolio grid:
 #what displays when the item is clicked:
 title: The Balloon Adventure
 subtitle: Unity
-video: https://drive.google.com/file/d/1oft75kkCYTXBE1uQs1Lud-t3yADeTh9V/preview
+video: https://github.com/sangbeom-kim/sangbeom-kim.github.io/releases/download/Video/Balloon.mp4
 alt: TheBalloonAdventure
 
 ---

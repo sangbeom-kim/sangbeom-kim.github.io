@@ -8,7 +8,7 @@ caption: #what displays in the portfolio grid:
 #what displays when the item is clicked:
 title: Shuttlefall
 subtitle: Unreal Engine 5
-video: https://drive.google.com/file/d/1hz27QgZ8kdrgekOQS07VlnpW6rIl93cr/preview
+video: https://github.com/sangbeom-kim/sangbeom-kim.github.io/releases/download/Video/Shuttlefall.mp4
 alt: Shuttlefall
 
 ---

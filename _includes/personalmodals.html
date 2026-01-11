@@ -1,12 +1,7 @@
 <!-- Portfolio Modals -->
 {% for project in site.personal %}
-<div
-  class="portfolio-modal modal fade"
-  id="personal-p{{ forloop.index }}"
-  tabindex="-1"
-  role="dialog"
-  aria-hidden="true"
->
+<div class="portfolio-modal modal fade" id="personal-p{{ forloop.index }}" tabindex="-1" role="dialog"
+  aria-hidden="true">
   <div class="modal-dialog">
     <div class="modal-content">
       <div class="close-modal" data-dismiss="modal">
@@ -22,18 +17,13 @@
               <h2 class="text-uppercase">{{ project.title }}</h2>
               <p class="item-intro text-muted">{{ project.subtitle }}</p>
               <div class="embed-responsive embed-responsive-16by9">
-                <iframe class="embed-responsive-item"
-                  src="{{ project.video }}"
-                  allow="autoplay"
-                  allowfullscreen>
-                </iframe>
+                <video class="embed-responsive-item" controls playsinline preload="metadata" {% if project.caption and
+                  project.caption.thumbnail %} poster="{{ project.caption.thumbnail | relative_url }}" {% endif %}>
+                  <source src="{{ project.video }}" type="video/mp4">
+                </video>
               </div>
               <p>{{ project.content }}</p>
-              <button
-                class="btn btn-primary"
-                data-dismiss="modal"
-                type="button"
-              >
+              <button class="btn btn-primary" data-dismiss="modal" type="button">
                 <i class="fas fa-times"></i>
                 {{ site.data.sitetext[site.locale].portfolio.closebutton |
                 default: "Close Project" }}

@@ -8,7 +8,7 @@ caption: #what displays in the portfolio grid:
 #what displays when the item is clicked:
 title: Vulkan Ray Tracing Project
 subtitle: C++/Vulkan
-video: https://drive.google.com/file/d/1xnoT1HPSwMjT6yjpOcsHvpU1vXpA8zKz/preview
+video: https://github.com/sangbeom-kim/sangbeom-kim.github.io/releases/download/Video/RayTrace.mp4
 alt: VulkanRayTracingProject
 
 ---

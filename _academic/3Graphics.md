@@ -8,7 +8,7 @@ caption: #what displays in the portfolio grid:
 #what displays when the item is clicked:
 title: Graphics Project
 subtitle: C++/OpenGL
-video: https://drive.google.com/file/d/1BAlpoJQNeDkVbM3jk9n5lPZ41jVsJy6O/preview
+video: https://github.com/sangbeom-kim/sangbeom-kim.github.io/releases/download/Video/Graphics.mp4
 alt: GraphicsProject
 
 ---
