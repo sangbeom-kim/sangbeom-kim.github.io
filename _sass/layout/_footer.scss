@@ -34,10 +34,16 @@ ul.social-buttons {
       border-radius: 100%;
       outline: none;
       background-color: $gray-900;
-      &:active,
       &:focus,
       &:hover {
         background-color: $primary;
+      }
+
+       &:focus-visible {
+        background-color: $primary;
+      }
+      &:focus:not(:focus-visible) {
+        background-color: $gray-900;
       }
     }
   }
