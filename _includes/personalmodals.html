@@ -17,9 +17,9 @@
               <h2 class="text-uppercase">{{ project.title }}</h2>
               <p class="item-intro text-muted">{{ project.subtitle }}</p>
               <div class="embed-responsive embed-responsive-16by9">
-                <video class="embed-responsive-item" controls playsinline preload="metadata" {% if project.caption and
-                  project.caption.thumbnail %} poster="{{ project.caption.thumbnail | relative_url }}" {% endif %}>
-                  <source src="{{ project.video }}" type="video/mp4">
+                <video class="embed-responsive-item" controls playsinline preload="none"
+                  poster="{{ project.caption.thumbnail | relative_url }}">
+                  <source data-src="{{ project.video }}" type="video/mp4">
                 </video>
               </div>
               <p>{{ project.content }}</p>
