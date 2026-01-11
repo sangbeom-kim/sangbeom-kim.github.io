@@ -7,4 +7,14 @@ $(document).ready(function() {
       iframe.attr('src', src);
     }
   });
+
+  $('.social-buttons a').on('mousedown click', function () {
+    var el = this;
+    setTimeout(function () { el.blur(); }, 0);
+  });
+
+  $(window).on('focus', function () {
+    var el = document.activeElement;
+    if (el && el.matches && el.matches('.social-buttons a')) el.blur();
+  });
 });
