@@ -42,7 +42,7 @@ ul.social-buttons {
        &:focus-visible {
         background-color: $primary;
       }
-      &:focus:not(:focus-visible) {
+      &:focus:not(:focus-visible):not(:hover):not(:active) {
         background-color: $gray-900;
       }
     }
