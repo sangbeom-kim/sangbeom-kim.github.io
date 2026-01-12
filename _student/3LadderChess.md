@@ -18,11 +18,13 @@ alt: LadderChess
   - Team: 3 Programmers
   - Role: Gameplay Programmer, Engine Programmer
 
+    Download the game [here](/assets/file/LadderChess.zip).
+
   {:.title}
   Description  
 
   {:.content}
-  A competitive two-player board game inspired by Amidakuji (ladder lottery). Designed as a fast-paced mind game where small tile changes can completely flip the outcome. This was my first student team game project.
+  A competitive two-player board game inspired by Amidakuji(Ladder Lottery). Designed as a fast-paced mind game where small tile changes can completely flip the outcome. This was my first student team game project.
 
   {:.title}
   Contribution  
