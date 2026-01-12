@@ -33,4 +33,5 @@ alt: Shuttlefall
   {:.content} 
   Contributed to custom depth shader programming, widget blueprint projection to in-game screen, game loop programming and system design.
 
-
+{:.content} 
+  Participated on level layout and difficulty design, and additional art assets for the game. Currently working on the game trailer and Steam release.

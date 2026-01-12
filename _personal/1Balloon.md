@@ -30,4 +30,7 @@ alt: TheBalloonAdventure
   Contribution  
 
   {:.content}    
-  Contributed to Unity shader programming, gameplay mechanics, particle system customization, level design, and illustration of game art assets.  
+  Contributed to Unity shader programming, gameplay mechanics, particle system customization, and illustration of game art assets. Also worked on level design and UI/UX of the game using Unity tile map and canvas.   
+
+  {:.content}    
+  Participated on deploying the game on WebGL with Unity, which helped to playtest the game and to prepare showcasing the game for the game contest.  
