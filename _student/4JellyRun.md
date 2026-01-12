@@ -30,7 +30,7 @@ alt: JellyRun
   Contribution  
 
   {:.content}    
-  Implemented the core gameplay loop and synced obstacle timing to audio playback.
+  Implemented the core gameplay loop and synced obstacle timing to audio playback.  
     
   {:.content} 
   Built the obstacle spawning and stage progression system aligned to the music flow, including retry/game-over states and basic UI feedback.

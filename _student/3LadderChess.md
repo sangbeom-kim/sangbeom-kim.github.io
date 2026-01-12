@@ -16,7 +16,7 @@ alt: LadderChess
   {:.list-inline} 
   - Date: October 2020 ~ November 2020
   - Team: 3 Programmers
-  - Role: Gameplay Programmer, Engine Programmer
+  - Role: Gameplay Programmer
 
     Download the game [here](/assets/file/LadderChess.zip).
 
