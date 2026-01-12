@@ -14,25 +14,25 @@ alt: JellyRun
 ---
 
   {:.list-inline} 
-  - Date: June 2020 ~ October 2020
+  - Date: June 2020 ~ July 2020
   - Team: Solo
   - Role: Gameplay Programmer
 
-  Play the game in p5.js web viewer [here](https://editor.p5js.org/Sangbeom.Kim/full/Rghic2NYF){:target="_blank" rel="noopener noreferrer"}.
+  Play the game on github.io [here](https://sangbeom-kim.github.io/final-project/){:target="_blank" rel="noopener noreferrer"}.
 
   {:.title}
   Description  
 
   {:.content}
-  An auto-scrolling rhythm runner where obstacles spawn from the right in sync with the music. The objective is to dodge obstacles and survive until the track ends. This project was created as a course final project and also my first game develop attempt.
+  An auto-scrolling rhythm runner where obstacles spawn from the right in sync with the music. The goal is to dodge obstacles and survive until the track ends. This project was created as a course final project and was my first attempt at game development.
 
   {:.title}
   Contribution  
 
   {:.content}    
-  Implemented the core gameplay loop and integrated audio playback with gameplay timing.  
+  Implemented the core gameplay loop and synced obstacle timing to audio playback.
     
   {:.content} 
-  Built the obstacle spawning system and stage progression logic to match the music flow, including retry/game-over states and basic UI feedback.
+  Built the obstacle spawning and stage progression system aligned to the music flow, including retry/game-over states and basic UI feedback.
 
 
